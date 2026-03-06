@@ -1,0 +1,15 @@
+JSON REFINER ADVANCED EDITION
+
+JSON REFINER ADVANCED EDITION using IBM Granite 3.3 2B Instruct Model.
+
+Click below to view and run the project:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1WzgfeVDtaCBWjGcOMpwqs_MLB1s0XrW5?usp=sharing)
+
+Technologies Used
+
+- Python
+- IBM Granite 3.3 2B Instruct
+- Gradio
+- Google Colab
+
